@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: yydfjt
+author: yydfjt
+permalink: /:year/:month/:day/:title/
+url: http://yydfjt.github.com
+markdown: rdiscount
 pygments: true
+safe: true
+auto: true
+paginate: 16
