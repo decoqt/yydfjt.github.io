@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "gollum_wiki"  
-categories:software
+categories: software
 
 
 
